@@ -21,4 +21,6 @@ Regional performance varies significantly
 🔷 Demo Video
 👉 https://drive.google.com/file/d/1mZJUYL2nPHex1IMEZOH4kqBLtY6fXdMe/view?usp=drive_link
 
+File Link - https://drive.google.com/file/d/1JnQQDokaeHAU5JVXC1WZ6m-ovWGkKUgf/view?usp=drive_link
+
 This project demonstrates end-to-end data analysis including data cleaning, transformation, and visualization.
